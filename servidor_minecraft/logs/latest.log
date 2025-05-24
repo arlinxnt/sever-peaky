@@ -111,3 +111,24 @@
 [24May2025 20:02:57.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 75757f10-7591-37ef-9a66-092248e053d5
 [24May2025 20:02:58.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 75757f10-7591-37ef-9a66-092248e053d5
 [24May2025 20:02:58.363] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player arlinxnt (75757f10-7591-37ef-9a66-092248e053d5) successfully connected to voice chat
+[24May2025 20:04:45.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Suit Up]
+[24May2025 20:05:00.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Suit Up]
+[24May2025 20:05:16.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Not Today, Thank You]
+[24May2025 20:05:45.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was shot by Skeleton
+[24May2025 20:05:54.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=72, z=-40}
+[24May2025 20:05:54.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=72, z=-41}
+[24May2025 20:09:53.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papalolo_80[/100.127.243.74:59563] logged in with entity id 1948 at (8.5, 79.0, -36.5)
+[24May2025 20:09:53.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papalolo_80 joined the game
+[24May2025 20:09:54.199] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of papalolo_80 (18)
+[24May2025 20:09:54.200] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to papalolo_80
+[24May2025 20:10:02.640] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 119e01e5-ddce-33c0-b1dd-f3e07b592a30
+[24May2025 20:10:03.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 119e01e5-ddce-33c0-b1dd-f3e07b592a30
+[24May2025 20:10:03.644] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player papalolo_80 (119e01e5-ddce-33c0-b1dd-f3e07b592a30) successfully connected to voice chat
+[24May2025 20:10:05.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papalolo_80 has made the advancement [Alex's Mobs]
+[24May2025 20:11:52.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Isn't It Iron Pick]
+[24May2025 20:12:05.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arlinxnt lost connection: Disconnected
+[24May2025 20:12:05.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt left the game
+[24May2025 20:12:05.999] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client arlinxnt
+[24May2025 20:13:05.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Zombie
+[24May2025 20:13:37.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Dark Metallurgy]
+[24May2025 20:13:49.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papalolo_80 has made the advancement [Monster Hunter]
