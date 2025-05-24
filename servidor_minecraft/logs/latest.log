@@ -146,3 +146,15 @@
 [24May2025 20:29:26.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Zombie Bruiser
 [24May2025 20:32:59.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papalolo_80 hit the ground too hard
 [24May2025 20:34:09.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papalolo_80 was slain by Zombie Bruiser
+[24May2025 20:35:52.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arlinxnt[/100.69.68.32:50978] logged in with entity id 7258 at (35.16338890368192, 66.0, -80.95882584186556)
+[24May2025 20:35:52.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt joined the game
+[24May2025 20:35:53.055] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of arlinxnt (18)
+[24May2025 20:35:53.056] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to arlinxnt
+[24May2025 20:35:56.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 75757f10-7591-37ef-9a66-092248e053d5
+[24May2025 20:35:57.011] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 75757f10-7591-37ef-9a66-092248e053d5
+[24May2025 20:35:57.012] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player arlinxnt (75757f10-7591-37ef-9a66-092248e053d5) successfully connected to voice chat
+[24May2025 20:37:39.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Zombie
+[24May2025 20:37:46.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papalolo_80 fell from a high place
+[24May2025 20:38:08.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[24May2025 20:40:13.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papalolo_80 has made the advancement [Not Today, Thank You]
+[24May2025 20:40:20.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papalolo_80 was slain by Zombie
