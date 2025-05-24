@@ -158,3 +158,29 @@
 [24May2025 20:38:08.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
 [24May2025 20:40:13.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papalolo_80 has made the advancement [Not Today, Thank You]
 [24May2025 20:40:20.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papalolo_80 was slain by Zombie
+[24May2025 20:49:46.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papalolo_80 lost connection: Disconnected
+[24May2025 20:49:46.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papalolo_80 left the game
+[24May2025 20:49:46.248] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client papalolo_80
+[24May2025 20:50:01.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by STEPHANOCUNUMI
+[24May2025 20:51:13.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by STEPHANOCUNUMI
+[24May2025 20:51:14.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by arlinxnt
+[24May2025 20:53:04.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STEPHANOCUNUMI lost connection: Disconnected
+[24May2025 20:53:04.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI left the game
+[24May2025 20:53:04.649] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client STEPHANOCUNUMI
+[24May2025 20:53:13.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arlinxnt lost connection: Disconnected
+[24May2025 20:53:13.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt left the game
+[24May2025 20:53:13.598] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client arlinxnt
+[24May2025 20:53:29.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24May2025 20:53:29.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24May2025 20:53:29.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24May2025 20:53:29.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24May2025 20:53:29.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24May2025 20:53:30.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[24May2025 20:53:30.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24May2025 20:53:30.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24May2025 20:53:30.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24May2025 20:53:30.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[24May2025 20:53:30.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24May2025 20:53:30.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24May2025 20:53:30.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24May2025 20:53:30.867] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

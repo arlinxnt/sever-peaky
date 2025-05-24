@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-24 20:40:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-24 20:21:12 +0000"
@@ -170,6 +176,12 @@
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-05-24 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-24 20:42:05 +0000"
     },
     "done": true
   },
@@ -815,6 +827,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-24 20:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-24 20:42:05 +0000"
     },
     "done": true
   },
