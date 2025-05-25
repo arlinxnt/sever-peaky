@@ -30,6 +30,7 @@
       "minecraft:frozen_river": "2025-05-24 21:14:11 +0000",
       "minecraft:cherry_grove": "2025-05-25 02:27:05 +0000",
       "minecraft:birch_forest": "2025-05-25 02:09:31 +0000",
+      "minecraft:sparse_jungle": "2025-05-25 02:42:31 +0000",
       "minecraft:river": "2025-05-25 01:18:25 +0000",
       "minecraft:snowy_plains": "2025-05-24 21:25:06 +0000",
       "minecraft:snowy_taiga": "2025-05-23 21:39:02 +0000",
@@ -37,6 +38,7 @@
       "minecraft:frozen_ocean": "2025-05-24 21:24:20 +0000",
       "minecraft:snowy_beach": "2025-05-24 21:35:30 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-25 02:09:00 +0000",
+      "minecraft:savanna": "2025-05-25 02:30:29 +0000",
       "minecraft:plains": "2025-05-25 02:13:28 +0000"
     },
     "done": false
@@ -564,7 +566,8 @@
       "minecraft:cave_spider": "2025-05-25 01:21:39 +0000",
       "minecraft:stray": "2025-05-25 01:23:05 +0000",
       "minecraft:zombie": "2025-05-23 22:13:44 +0000",
-      "minecraft:drowned": "2025-05-25 01:20:59 +0000"
+      "minecraft:drowned": "2025-05-25 01:20:59 +0000",
+      "minecraft:zombie_villager": "2025-05-25 02:38:53 +0000"
     },
     "done": false
   },
@@ -1492,6 +1495,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2025-05-25 02:42:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-05-25 01:32:12 +0000"
@@ -1666,6 +1675,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-05-25 02:28:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-05-25 01:20:02 +0000"
@@ -1699,6 +1714,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-25 00:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-25 02:30:13 +0000"
     },
     "done": true
   },
@@ -1976,6 +1997,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-25 00:57:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-05-25 02:41:57 +0000"
     },
     "done": true
   },

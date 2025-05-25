@@ -29,13 +29,16 @@
       "minecraft:taiga": "2025-05-25 01:17:27 +0000",
       "minecraft:frozen_river": "2025-05-24 21:35:57 +0000",
       "minecraft:birch_forest": "2025-05-25 02:09:30 +0000",
+      "minecraft:sparse_jungle": "2025-05-25 02:42:24 +0000",
       "minecraft:river": "2025-05-25 02:06:09 +0000",
       "minecraft:snowy_plains": "2025-05-24 21:30:25 +0000",
       "minecraft:snowy_taiga": "2025-05-23 21:41:47 +0000",
       "minecraft:forest": "2025-05-25 02:12:04 +0000",
       "minecraft:frozen_ocean": "2025-05-24 20:31:48 +0000",
+      "minecraft:jungle": "2025-05-25 02:46:15 +0000",
       "minecraft:snowy_beach": "2025-05-24 20:30:33 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-25 02:08:58 +0000",
+      "minecraft:savanna": "2025-05-25 02:30:29 +0000",
       "minecraft:plains": "2025-05-25 02:12:52 +0000"
     },
     "done": false
@@ -322,6 +325,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-25 00:53:30 +0000",
       "chicken": "2025-05-23 21:58:50 +0000",
+      "baked_potato": "2025-05-25 02:44:59 +0000",
       "bread": "2025-05-25 00:57:43 +0000",
       "rotten_flesh": "2025-05-23 21:55:39 +0000",
       "cooked_chicken": "2025-05-23 22:05:13 +0000",
@@ -1643,6 +1647,12 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-05-25 02:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-25 01:01:45 +0000"
@@ -1667,6 +1677,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-25 02:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-25 02:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-25 00:58:33 +0000"
@@ -1682,6 +1704,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pickaxe": "2025-05-25 02:09:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-05-25 02:35:18 +0000"
     },
     "done": true
   },
@@ -1829,9 +1857,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-05-25 02:28:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-25 02:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-25 02:40:11 +0000"
     },
     "done": true
   },
@@ -1859,6 +1899,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-05-25 02:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-25 02:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-05-25 02:16:39 +0000"
@@ -1874,6 +1926,12 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-25 02:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-25 02:30:02 +0000"
     },
     "done": true
   },
@@ -1904,6 +1962,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-25 01:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-25 02:28:48 +0000"
     },
     "done": true
   },
@@ -1979,6 +2043,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-05-25 02:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-25 02:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-05-25 01:30:26 +0000"
@@ -1991,6 +2067,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-05-25 02:36:37 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:pieceof_chaos": {
     "criteria": {
       "pieceof_chaos_0": "2025-05-25 01:37:34 +0000"
@@ -2000,6 +2082,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-05-25 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-25 02:28:48 +0000"
     },
     "done": true
   },
@@ -2021,6 +2109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-25 02:28:48 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bowfor_wizards": {
     "criteria": {
       "bowfor_wizards_0": "2025-05-25 01:58:33 +0000"
@@ -2030,6 +2124,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-05-25 02:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-25 02:40:11 +0000"
     },
     "done": true
   },
@@ -2057,9 +2157,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-25 02:28:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-25 01:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-25 02:28:48 +0000"
     },
     "done": true
   },
@@ -2090,6 +2202,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-05-25 00:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-25 02:40:11 +0000"
     },
     "done": true
   },
@@ -2147,9 +2265,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-25 02:40:11 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-05-25 02:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-25 02:40:11 +0000"
     },
     "done": true
   },
@@ -2183,9 +2313,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-25 02:28:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-05-25 00:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-25 02:28:48 +0000"
     },
     "done": true
   },
@@ -2225,6 +2367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-25 02:28:48 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-05-25 02:18:22 +0000"
@@ -2255,6 +2403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-25 02:28:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-25 01:07:55 +0000"
@@ -2276,6 +2430,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-05-25 01:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-25 02:28:48 +0000"
     },
     "done": true
   },

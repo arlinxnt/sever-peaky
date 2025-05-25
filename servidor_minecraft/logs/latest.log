@@ -323,3 +323,61 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 [25May2025 02:24:57.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
 [25May2025 02:25:49.762] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23195, l='ServerLevel[world]', x=783.05, y=93.00, z=-1230.76] died, message: 'Unemployed was slain by Zombie'
 [25May2025 02:28:33.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has reached the goal [Pray to the Goddess]
+[25May2025 02:29:20.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:29:42.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Iron Golem
+[25May2025 02:29:48.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:29:54.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by Iron Golem
+[25May2025 02:29:58.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[25May2025 02:30:21.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:30:28.505] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=28, z=-358}
+[25May2025 02:30:30.551] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[25May2025 02:30:30.777] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[25May2025 02:30:34.286] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=31, z=-408}
+[25May2025 02:30:34.293] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=28, z=-358}
+[25May2025 02:30:34.310] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-420}
+[25May2025 02:30:34.310] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-419}
+[25May2025 02:31:18.197] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-366}
+[25May2025 02:31:18.197] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
+[25May2025 02:31:18.197] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-362}
+[25May2025 02:31:18.240] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
+[25May2025 02:31:18.241] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-362}
+[25May2025 02:31:22.918] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-366}
+[25May2025 02:31:26.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Elephant
+[25May2025 02:31:32.287] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-314}
+[25May2025 02:31:32.287] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-315}
+[25May2025 02:31:32.287] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-314}
+[25May2025 02:31:32.288] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-309}
+[25May2025 02:31:32.288] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=32, z=-305}
+[25May2025 02:31:37.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:32:11.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:32:21.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:32:39.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by arlinxnt
+[25May2025 02:32:53.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:33:35.173] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-231, y=25, z=-315}
+[25May2025 02:33:35.847] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=30, z=-334}
+[25May2025 02:33:40.519] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=30, z=-338}
+[25May2025 02:33:40.520] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=35, z=-340}
+[25May2025 02:34:18.279] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-310}
+[25May2025 02:34:18.280] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-230, y=26, z=-311}
+[25May2025 02:34:18.280] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=26, z=-310}
+[25May2025 02:34:18.280] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=26, z=-311}
+[25May2025 02:34:18.281] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-232, y=26, z=-312}
+[25May2025 02:34:18.281] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=31, z=-312}
+[25May2025 02:34:21.843] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
+[25May2025 02:34:21.971] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
+[25May2025 02:34:51.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:35:18.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [It's an Emu!!!]
+[25May2025 02:35:57.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:36:37.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [The day of the Dead]
+[25May2025 02:37:17.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:37:51.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:38:32.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:38:56.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI withered away whilst fighting Nightmare Stalker
+[25May2025 02:39:08.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:39:20.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has reached the goal [Fighting Nightmares]
+[25May2025 02:41:57.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has reached the goal [Dark Creator]
+[25May2025 02:42:56.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:44:12.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Gorilla
+[25May2025 02:44:16.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:45:44.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by Gorilla
+[25May2025 02:45:47.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
