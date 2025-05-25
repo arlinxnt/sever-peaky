@@ -2290,3 +2290,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 [25May2025 01:06:40.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4254, l='ServerLevel[world]', x=625.50, y=70.94, z=-407.87] died, message: 'Farmer was slain by Zombie Lumberjack'
 [25May2025 01:06:48.622] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4255, l='ServerLevel[world]', x=619.69, y=73.00, z=-397.20] died, message: 'Farmer was slain by Zombie Lumberjack'
 [25May2025 01:07:36.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [A Seedy Place]
+[25May2025 01:08:18.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 01:08:18.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 01:08:59.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[25May2025 01:13:18.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 01:13:18.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 01:18:18.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 01:18:18.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 01:19:16.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Take Aim]
+[25May2025 01:21:28.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Cave Spider
+[25May2025 01:21:31.160] [Server thread/DEBUG] [twilightforest/]: Player STEPHANOCUNUMI (47dd54fe-6257-3c10-83e9-07d43c8805c6) respawned and received items held in storage
+[25May2025 01:22:13.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by Cave Spider
+[25May2025 01:22:15.540] [Server thread/DEBUG] [twilightforest/]: Player arlinxnt (75757f10-7591-37ef-9a66-092248e053d5) respawned and received items held in storage
+[25May2025 01:22:37.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 01:23:18.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 01:23:18.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 01:24:41.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI burned to death
+[25May2025 01:24:43.380] [Server thread/DEBUG] [twilightforest/]: Player STEPHANOCUNUMI (47dd54fe-6257-3c10-83e9-07d43c8805c6) respawned and received items held in storage
+[25May2025 01:25:03.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 01:28:18.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 01:28:18.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 01:30:28.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Hunt and Gather]
+[25May2025 01:32:12.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Diamonds!]
+[25May2025 01:33:18.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 01:33:18.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 01:37:34.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Piece of Chaos]

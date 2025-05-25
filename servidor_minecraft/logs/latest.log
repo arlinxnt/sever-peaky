@@ -216,3 +216,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 [25May2025 01:06:40.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4254, l='ServerLevel[world]', x=625.50, y=70.94, z=-407.87] died, message: 'Farmer was slain by Zombie Lumberjack'
 [25May2025 01:06:48.622] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4255, l='ServerLevel[world]', x=619.69, y=73.00, z=-397.20] died, message: 'Farmer was slain by Zombie Lumberjack'
 [25May2025 01:07:36.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [A Seedy Place]
+[25May2025 01:08:59.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[25May2025 01:19:16.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Take Aim]
+[25May2025 01:21:28.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Cave Spider
+[25May2025 01:22:13.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by Cave Spider
+[25May2025 01:22:37.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 01:24:41.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI burned to death
+[25May2025 01:25:03.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 01:30:28.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Hunt and Gather]
+[25May2025 01:32:12.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Diamonds!]
+[25May2025 01:37:34.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Piece of Chaos]
