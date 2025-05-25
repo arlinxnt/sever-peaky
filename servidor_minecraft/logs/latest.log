@@ -151,3 +151,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 [25May2025 22:15:34.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 47dd54fe-6257-3c10-83e9-07d43c8805c6
 [25May2025 22:15:34.170] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player STEPHANOCUNUMI (47dd54fe-6257-3c10-83e9-07d43c8805c6) successfully connected to voice chat
 [25May2025 22:19:01.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Once Upon a Cave]
+[25May2025 22:31:03.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by Zombie
+[25May2025 22:31:17.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[25May2025 22:36:16.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Fatty Demon]
+[25May2025 22:36:42.504] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/300, l='ServerLevel[world]', x=890.59, y=72.00, z=-3854.00] died, message: 'Leatherworker was slain by Zombie Fisherman'
+[25May2025 22:39:35.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Scarlet Persecutor
+[25May2025 22:40:01.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]

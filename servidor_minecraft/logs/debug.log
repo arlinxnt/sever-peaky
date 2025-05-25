@@ -2210,3 +2210,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 [25May2025 22:26:11.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25May2025 22:26:11.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25May2025 22:30:12.618] [Worker-Main-12/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[25May2025 22:31:03.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by Zombie
+[25May2025 22:31:06.506] [Server thread/DEBUG] [twilightforest/]: Player arlinxnt (75757f10-7591-37ef-9a66-092248e053d5) respawned and received items held in storage
+[25May2025 22:31:11.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 22:31:11.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 22:31:17.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[25May2025 22:36:11.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 22:36:11.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 22:36:16.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Fatty Demon]
+[25May2025 22:36:30.267] [Worker-Main-11/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[25May2025 22:36:42.504] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/300, l='ServerLevel[world]', x=890.59, y=72.00, z=-3854.00] died, message: 'Leatherworker was slain by Zombie Fisherman'
+[25May2025 22:39:35.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Scarlet Persecutor
+[25May2025 22:39:37.650] [Server thread/DEBUG] [twilightforest/]: Player STEPHANOCUNUMI (47dd54fe-6257-3c10-83e9-07d43c8805c6) respawned and received items held in storage
+[25May2025 22:40:01.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
