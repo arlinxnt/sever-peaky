@@ -381,3 +381,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 [25May2025 02:44:16.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
 [25May2025 02:45:44.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by Gorilla
 [25May2025 02:45:47.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[25May2025 02:50:14.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [We do a little trolling...]
+[25May2025 02:50:18.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [We do a little trolling...]
+[25May2025 02:50:25.338] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1046, y=10, z=-2712} but found not block entity block Block{minecraft:water}[level=1] at location
+[25May2025 02:50:25.338] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1046, y=10, z=-2712}
+[25May2025 02:50:40.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:50:43.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:51:23.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:51:36.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [It's an Emu!!!]
+[25May2025 02:51:55.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by Emu
+[25May2025 02:51:58.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[25May2025 02:56:45.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[25May2025 02:56:59.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Fallen Chaos Knight
+[25May2025 02:57:12.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:57:29.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt tried to swim in lava to escape Door Knight
+[25May2025 02:57:34.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[25May2025 02:58:18.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Bloody Gadfly
+[25May2025 02:58:23.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
