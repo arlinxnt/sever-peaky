@@ -2338,3 +2338,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 [25May2025 01:46:48.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Piece of Chaos]
 [25May2025 01:47:32.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Dark Metallurgy]
 [25May2025 01:47:59.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Food Fight]
+[25May2025 01:48:18.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 01:48:18.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 01:49:09.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt fell from a high place
+[25May2025 01:49:11.051] [Server thread/DEBUG] [twilightforest/]: Player arlinxnt (75757f10-7591-37ef-9a66-092248e053d5) respawned and received items held in storage
+[25May2025 01:49:19.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 01:53:18.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 01:53:18.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 01:56:42.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Gave 1 [Dark Oak Wood] to arlinxnt]
