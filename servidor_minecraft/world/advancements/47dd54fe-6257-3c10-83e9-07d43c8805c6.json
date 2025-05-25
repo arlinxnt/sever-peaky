@@ -37,6 +37,7 @@
       "minecraft:lukewarm_ocean": "2025-05-25 03:06:02 +0000",
       "minecraft:river": "2025-05-25 02:06:09 +0000",
       "minecraft:snowy_plains": "2025-05-24 21:30:25 +0000",
+      "minecraft:stony_shore": "2025-05-25 03:13:34 +0000",
       "minecraft:snowy_taiga": "2025-05-23 21:41:47 +0000",
       "minecraft:forest": "2025-05-25 02:12:04 +0000",
       "minecraft:frozen_ocean": "2025-05-24 20:31:48 +0000",
@@ -1804,6 +1805,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-05-25 03:16:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-25 02:16:39 +0000"
@@ -1843,6 +1850,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-05-25 00:56:10 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-05-25 03:12:47 +0000"
     },
     "done": true
   },
@@ -2185,6 +2198,18 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-05-25 02:28:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-05-25 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-05-25 03:16:04 +0000"
     },
     "done": true
   },
