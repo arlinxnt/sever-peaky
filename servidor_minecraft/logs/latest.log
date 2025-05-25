@@ -256,3 +256,70 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 [25May2025 02:07:11.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Chompy]
 [25May2025 02:07:34.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by STEPHANOCUNUMI
 [25May2025 02:07:38.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[25May2025 02:08:55.474] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[25May2025 02:09:10.358] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[25May2025 02:09:10.362] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[25May2025 02:09:10.366] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[25May2025 02:09:12.125] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-594}
+[25May2025 02:09:12.126] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-593}
+[25May2025 02:09:12.126] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-593}
+[25May2025 02:09:12.126] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=30, z=-591}
+[25May2025 02:09:12.126] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-591}
+[25May2025 02:09:12.126] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-592}
+[25May2025 02:09:12.127] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-590}
+[25May2025 02:09:12.127] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-589}
+[25May2025 02:09:12.127] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-589}
+[25May2025 02:09:12.127] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=24, z=-591}
+[25May2025 02:09:12.127] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-588}
+[25May2025 02:09:12.128] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-593}
+[25May2025 02:09:12.128] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=30, z=-591}
+[25May2025 02:09:12.128] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-589}
+[25May2025 02:09:12.128] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-590}
+[25May2025 02:09:12.128] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-591}
+[25May2025 02:09:12.128] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-592}
+[25May2025 02:09:12.129] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=24, z=-591}
+[25May2025 02:09:12.146] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[25May2025 02:09:12.163] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[25May2025 02:09:16.711] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[25May2025 02:09:16.712] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[25May2025 02:09:16.713] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[25May2025 02:09:16.713] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[25May2025 02:09:17.289] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-607}
+[25May2025 02:09:17.289] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-607}
+[25May2025 02:09:17.289] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-607}
+[25May2025 02:09:17.289] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-607}
+[25May2025 02:09:17.290] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-607}
+[25May2025 02:09:17.346] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-612}
+[25May2025 02:09:17.346] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-612}
+[25May2025 02:09:17.346] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-612}
+[25May2025 02:09:17.346] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-612}
+[25May2025 02:09:17.347] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-612}
+[25May2025 02:09:22.388] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[25May2025 02:09:22.389] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[25May2025 02:09:48.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Ice Bucket Challenge]
+[25May2025 02:11:45.515] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[25May2025 02:11:45.558] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[25May2025 02:11:45.559] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[25May2025 02:11:45.737] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[25May2025 02:11:45.737] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[25May2025 02:11:45.737] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[25May2025 02:11:45.737] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[25May2025 02:11:45.752] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[25May2025 02:11:45.752] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[25May2025 02:11:56.149] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[25May2025 02:11:56.149] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[25May2025 02:12:10.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:17:24.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [What a Deal!]
+[25May2025 02:18:22.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has reached the goal [Half a flight]
+[25May2025 02:18:31.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has reached the goal [Half a flight]
+[25May2025 02:19:17.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:20:27.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23151, l='ServerLevel[world]', x=771.22, y=104.00, z=-1216.43] died, message: 'Unemployed was slain by Zombie'
+[25May2025 02:20:45.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23149, l='ServerLevel[world]', x=769.70, y=104.00, z=-1216.33] died, message: 'Unemployed was slain by Zombie'
+[25May2025 02:21:52.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22924, l='ServerLevel[world]', x=757.62, y=94.00, z=-1204.11] died, message: 'Unemployed was slain by Zombie'
+[25May2025 02:22:09.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22282, l='ServerLevel[world]', x=759.01, y=94.00, z=-1202.93] died, message: 'Unemployed was slain by Zombie'
+[25May2025 02:24:31.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was doomed to fall
+[25May2025 02:24:35.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[25May2025 02:24:51.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was doomed to fall
+[25May2025 02:24:57.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:25:49.762] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23195, l='ServerLevel[world]', x=783.05, y=93.00, z=-1230.76] died, message: 'Unemployed was slain by Zombie'
+[25May2025 02:28:33.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has reached the goal [Pray to the Goddess]
