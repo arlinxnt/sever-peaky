@@ -1,56 +1,56 @@
-[25May2025 00:27:40.030] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.17, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[25May2025 00:27:40.035] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[25May2025 00:27:41.074] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[25May2025 00:27:41.132] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/sever-peaky/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[25May2025 00:27:41.402] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sever-peaky/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.17/fmlcore-1.20.1-47.2.17.jar is missing mods.toml file
-[25May2025 00:27:41.404] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sever-peaky/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.17/javafmllanguage-1.20.1-47.2.17.jar is missing mods.toml file
-[25May2025 00:27:41.405] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sever-peaky/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.17/lowcodelanguage-1.20.1-47.2.17.jar is missing mods.toml file
-[25May2025 00:27:41.406] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sever-peaky/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.17/mclanguage-1.20.1-47.2.17.jar is missing mods.toml file
-[25May2025 00:27:41.556] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[25May2025 00:27:43.778] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[25May2025 00:27:43.830] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[25May2025 00:27:43.889] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
-[25May2025 00:27:52.074] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[25May2025 00:27:52.094] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[25May2025 00:27:52.269] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
-[25May2025 00:27:52.283] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
-[25May2025 00:27:52.285] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
-[25May2025 00:27:52.289] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
-[25May2025 00:27:52.858] [modloading-worker-0/WARN] [mixin/]: @Final field f_31201_:Lorg/slf4j/Logger; in progressivebosses.mixins.json:DragonChargePlayerPhaseMixin should be final
-[25May2025 00:27:53.050] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.17, for MC 1.20.1 with MCP 20230612.114412
-[25May2025 00:27:53.050] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.17 Initialized
-[25May2025 00:27:56.528] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[25May2025 00:27:56.633] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[25May2025 00:27:56.651] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[25May2025 00:27:56.652] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[25May2025 00:27:56.654] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[25May2025 00:27:56.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[25May2025 00:27:57.064] [main/INFO] [journeymap/]: Initializing Packet Registries
-[25May2025 00:27:57.111] [modloading-worker-0/INFO] [com.choicetheorem.ctov.ctov/]: Got IMC []
-[25May2025 00:27:57.124] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[25May2025 00:27:57.127] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[25May2025 00:27:57.169] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[25May2025 00:27:57.189] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[25May2025 00:27:57.193] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[25May2025 00:27:57.195] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[25May2025 00:27:57.196] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[25May2025 00:27:57.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.22 Target: 1.20.1-2.5.30
-[25May2025 00:27:57.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[25May2025 00:27:57.780] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.2 Target: 5.10.3
-[25May2025 00:27:57.781] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
-[25May2025 00:27:57.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: OUTDATED Current: 2.0.0-b1.2 Target: 2.0.0-b1.4
-[25May2025 00:27:57.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[25May2025 00:27:58.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.17 Target: 47.4.0
-[25May2025 00:27:58.036] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
-[25May2025 00:27:58.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: OUTDATED Current: 3.3.4 Target: 3.4.14
-[25May2025 00:27:58.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[25May2025 00:27:58.720] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[25May2025 00:28:01.365] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[25May2025 00:28:03.996] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sever-peaky/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/assets/.mcassetsroot' uses unexpected schema
-[25May2025 00:28:03.996] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sever-peaky/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/data/.mcassetsroot' uses unexpected schema
-[25May2025 00:28:05.591] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[25May2025 00:28:06.657] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[25May2025 00:28:06.716] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe smallships:bamboo_drakkar
+[25May2025 22:10:30.005] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.17, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[25May2025 22:10:30.008] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[25May2025 22:10:30.900] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[25May2025 22:10:30.956] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/sever-peaky/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[25May2025 22:10:31.255] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sever-peaky/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.17/fmlcore-1.20.1-47.2.17.jar is missing mods.toml file
+[25May2025 22:10:31.258] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sever-peaky/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.17/javafmllanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[25May2025 22:10:31.259] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sever-peaky/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.17/lowcodelanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[25May2025 22:10:31.261] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sever-peaky/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.17/mclanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[25May2025 22:10:31.423] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[25May2025 22:10:33.644] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[25May2025 22:10:33.701] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[25May2025 22:10:33.766] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[25May2025 22:10:42.002] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[25May2025 22:10:42.024] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[25May2025 22:10:42.166] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
+[25May2025 22:10:42.177] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
+[25May2025 22:10:42.180] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
+[25May2025 22:10:42.186] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
+[25May2025 22:10:42.743] [modloading-worker-0/WARN] [mixin/]: @Final field f_31201_:Lorg/slf4j/Logger; in progressivebosses.mixins.json:DragonChargePlayerPhaseMixin should be final
+[25May2025 22:10:42.778] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.17, for MC 1.20.1 with MCP 20230612.114412
+[25May2025 22:10:42.779] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.17 Initialized
+[25May2025 22:10:46.002] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[25May2025 22:10:46.132] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[25May2025 22:10:46.141] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[25May2025 22:10:46.141] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[25May2025 22:10:46.141] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[25May2025 22:10:46.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[25May2025 22:10:46.611] [main/INFO] [journeymap/]: Initializing Packet Registries
+[25May2025 22:10:46.657] [modloading-worker-0/INFO] [com.choicetheorem.ctov.ctov/]: Got IMC []
+[25May2025 22:10:46.672] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[25May2025 22:10:46.672] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[25May2025 22:10:46.707] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[25May2025 22:10:46.725] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[25May2025 22:10:46.729] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[25May2025 22:10:46.731] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[25May2025 22:10:46.731] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[25May2025 22:10:47.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.22 Target: 1.20.1-2.5.30
+[25May2025 22:10:47.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[25May2025 22:10:47.246] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.2 Target: null
+[25May2025 22:10:47.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[25May2025 22:10:47.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: OUTDATED Current: 2.0.0-b1.2 Target: 2.0.0-b1.4
+[25May2025 22:10:47.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[25May2025 22:10:47.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.17 Target: 47.4.0
+[25May2025 22:10:47.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
+[25May2025 22:10:47.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: OUTDATED Current: 3.3.4 Target: 3.4.14
+[25May2025 22:10:47.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[25May2025 22:10:47.742] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[25May2025 22:10:50.820] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[25May2025 22:10:53.422] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sever-peaky/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/assets/.mcassetsroot' uses unexpected schema
+[25May2025 22:10:53.422] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sever-peaky/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/data/.mcassetsroot' uses unexpected schema
+[25May2025 22:10:54.729] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[25May2025 22:10:55.649] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[25May2025 22:10:55.700] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe smallships:bamboo_drakkar
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -88,445 +88,66 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[25May2025 00:28:06.735] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[25May2025 00:28:06.744] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[25May2025 00:28:06.745] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[25May2025 00:28:06.747] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[25May2025 00:28:06.751] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[25May2025 00:28:06.767] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[25May2025 00:28:06.771] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[25May2025 00:28:06.774] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
-[25May2025 00:28:06.913] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2221 advancements
-[25May2025 00:28:06.925] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[25May2025 00:28:06.934] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[25May2025 00:28:06.945] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[25May2025 00:28:06.951] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
-[25May2025 00:28:06.980] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[25May2025 00:28:09.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[25May2025 00:28:09.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[25May2025 00:28:09.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[25May2025 00:28:09.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[25May2025 00:28:09.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[25May2025 00:28:09.499] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[25May2025 00:28:09.585] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[25May2025 00:28:09.586] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[25May2025 00:28:09.586] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[25May2025 00:28:09.587] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[25May2025 00:28:09.608] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[25May2025 00:28:09.609] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[25May2025 00:28:09.611] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[25May2025 00:28:09.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[25May2025 00:28:13.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[25May2025 00:28:15.956] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25May2025 00:28:15.969] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25May2025 00:28:15.983] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25May2025 00:28:15.996] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25May2025 00:28:16.007] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25May2025 00:28:16.467] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25May2025 00:28:16.703] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25May2025 00:28:17.201] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25May2025 00:28:17.701] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25May2025 00:28:18.201] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[25May2025 00:28:18.701] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[25May2025 00:28:18.778] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5078 ms
-[25May2025 00:28:18.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.175s)! For help, type "help"
-[25May2025 00:28:18.837] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[25May2025 00:28:18.889] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[25May2025 00:28:18.903] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[25May2025 00:30:55.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arlinxnt[/100.69.68.32:50047] logged in with entity id 38 at (350.30000001192093, 72.0, -81.30000001192093)
-[25May2025 00:30:55.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt joined the game
-[25May2025 00:30:56.005] [Server thread/INFO] [Jade/]: Syncing config to arlinxnt (75757f10-7591-37ef-9a66-092248e053d5)
-[25May2025 00:30:57.243] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of arlinxnt (18)
-[25May2025 00:30:57.245] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to arlinxnt
-[25May2025 00:31:00.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 75757f10-7591-37ef-9a66-092248e053d5
-[25May2025 00:31:01.229] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 75757f10-7591-37ef-9a66-092248e053d5
-[25May2025 00:31:01.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player arlinxnt (75757f10-7591-37ef-9a66-092248e053d5) successfully connected to voice chat
-[25May2025 00:31:26.241] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-236, y=27, z=-810}
-[25May2025 00:50:50.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STEPHANOCUNUMI[/100.127.67.97:56692] logged in with entity id 2694 at (352.69999998807907, 72.0, -80.51311498464068)
-[25May2025 00:50:50.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI joined the game
-[25May2025 00:50:50.205] [Server thread/INFO] [Jade/]: Syncing config to STEPHANOCUNUMI (47dd54fe-6257-3c10-83e9-07d43c8805c6)
-[25May2025 00:50:51.141] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of STEPHANOCUNUMI (18)
-[25May2025 00:50:51.142] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to STEPHANOCUNUMI
-[25May2025 00:50:56.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 47dd54fe-6257-3c10-83e9-07d43c8805c6
-[25May2025 00:50:57.616] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 47dd54fe-6257-3c10-83e9-07d43c8805c6
-[25May2025 00:50:57.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player STEPHANOCUNUMI (47dd54fe-6257-3c10-83e9-07d43c8805c6) successfully connected to voice chat
-[25May2025 00:52:45.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * arlinxnt le da su pene
-[25May2025 00:52:53.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STEPHANOCUNUMI> ./me se lo chupa
-[25May2025 00:53:34.990] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=26, z=-788}
-[25May2025 00:53:34.991] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-789}
-[25May2025 00:53:34.991] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-788}
-[25May2025 00:53:35.004] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=27, z=-818}
-[25May2025 00:53:35.005] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-212, y=30, z=-818}
-[25May2025 00:53:40.240] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=31, z=-785}
-[25May2025 00:53:40.240] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-254, y=27, z=-786}
-[25May2025 00:53:40.241] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-255, y=30, z=-781}
-[25May2025 00:53:40.241] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-254, y=27, z=-782}
-[25May2025 00:54:54.018] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=30, z=-819}
-[25May2025 00:54:54.018] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-819}
-[25May2025 00:54:54.021] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-242, y=31, z=-816}
-[25May2025 00:54:54.035] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=27, z=-813}
-[25May2025 00:54:54.150] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-215, y=27, z=-818}
-[25May2025 00:54:54.181] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=30, z=-784}
-[25May2025 00:54:54.206] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=30, z=-819}
-[25May2025 00:54:54.209] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=26, z=-813}
-[25May2025 00:54:54.210] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-813}
-[25May2025 00:54:54.211] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-813}
-[25May2025 00:54:58.374] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=26, z=-813}
-[25May2025 00:54:58.374] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-813}
-[25May2025 00:54:58.374] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-813}
-[25May2025 00:54:58.387] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-388, y=27, z=-843}
-[25May2025 00:54:58.390] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=27, z=-838}
-[25May2025 00:54:58.390] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=31, z=-834}
-[25May2025 00:54:58.650] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-819}
-[25May2025 00:55:06.592] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-813}
-[25May2025 00:55:06.592] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-392, y=27, z=-813}
-[25May2025 00:55:06.706] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=37, z=-882}
-[25May2025 00:55:07.017] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-212, y=30, z=-818}
-[25May2025 00:55:12.916] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-817}
-[25May2025 00:55:13.181] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
-[25May2025 00:55:13.226] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-215, y=27, z=-818}
-[25May2025 00:55:13.227] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=27, z=-818}
-[25May2025 00:55:13.227] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=27, z=-813}
-[25May2025 00:55:15.124] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-231, y=35, z=-773}
-[25May2025 00:55:15.125] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-224, y=35, z=-781}
-[25May2025 00:55:17.454] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=26, z=-813}
-[25May2025 00:55:17.455] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-813}
-[25May2025 00:55:24.909] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-369, y=27, z=-812}
-[25May2025 00:55:24.909] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-369, y=30, z=-814}
-[25May2025 00:55:24.910] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-815}
-[25May2025 00:55:24.910] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-368, y=27, z=-812}
-[25May2025 00:55:25.282] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=27, z=-814}
-[25May2025 00:55:25.283] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=30, z=-814}
-[25May2025 00:55:25.284] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=27, z=-813}
-[25May2025 00:55:25.284] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=27, z=-814}
-[25May2025 00:55:25.284] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=27, z=-814}
-[25May2025 00:55:25.778] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=30, z=-819}
-[25May2025 00:55:25.779] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-813}
-[25May2025 00:55:25.780] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-819}
-[25May2025 00:56:19.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Crops of the Wild]
-[25May2025 00:58:00.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Diamonds!]
-[25May2025 01:01:32.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Isn't It Iron Pick]
-[25May2025 01:02:39.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 01:02:58.161] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3761, l='ServerLevel[world]', x=579.44, y=66.00, z=-311.30] died, message: 'Unemployed was slain by Zombie'
-[25May2025 01:03:18.563] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3947, l='ServerLevel[world]', x=691.88, y=103.80, z=-365.50] died, message: 'Farmer was slain by Zombie'
-[25May2025 01:03:59.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [The Wind Darkening]
-[25May2025 01:04:47.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [The Wind Darkening]
-[25May2025 01:05:42.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Life turned out to be a comedy]
-[25May2025 01:06:22.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 01:06:40.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4254, l='ServerLevel[world]', x=625.50, y=70.94, z=-407.87] died, message: 'Farmer was slain by Zombie Lumberjack'
-[25May2025 01:06:48.622] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4255, l='ServerLevel[world]', x=619.69, y=73.00, z=-397.20] died, message: 'Farmer was slain by Zombie Lumberjack'
-[25May2025 01:07:36.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [A Seedy Place]
-[25May2025 01:08:59.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 01:19:16.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Take Aim]
-[25May2025 01:21:28.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Cave Spider
-[25May2025 01:22:13.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by Cave Spider
-[25May2025 01:22:37.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 01:24:41.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI burned to death
-[25May2025 01:25:03.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 01:30:28.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Hunt and Gather]
-[25May2025 01:32:12.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Diamonds!]
-[25May2025 01:37:34.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Piece of Chaos]
-[25May2025 01:41:26.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was shot by Supreme Bonescaller
-[25May2025 01:41:34.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 01:41:46.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was shot by Supreme Bonescaller
-[25May2025 01:42:04.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by Bone Imp
-[25May2025 01:42:17.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 01:45:04.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Bone Imp
-[25May2025 01:45:09.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was shot by Supreme Bonescaller
-[25May2025 01:45:56.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 01:46:03.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by Bone Imp
-[25May2025 01:46:08.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 01:46:48.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Piece of Chaos]
-[25May2025 01:47:32.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Dark Metallurgy]
-[25May2025 01:47:59.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Food Fight]
-[25May2025 01:49:09.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt fell from a high place
-[25May2025 01:49:19.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 01:56:42.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Gave 1 [Dark Oak Wood] to arlinxnt]
-[25May2025 01:58:33.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has reached the goal [Bow for Wizards]
-[25May2025 01:59:58.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:00:25.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17612, l='ServerLevel[world]', x=625.65, y=94.00, z=-329.51] died, message: 'Unemployed was slain by STEPHANOCUNUMI'
-[25May2025 02:00:48.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Crops of the Wild]
-[25May2025 02:02:06.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:03:12.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Sweet Dreams]
-[25May2025 02:03:15.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Sweet Dreams]
-[25May2025 02:04:48.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:04:48.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt fell from a high place
-[25May2025 02:04:59.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 02:07:09.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:07:11.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Chompy]
-[25May2025 02:07:34.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by STEPHANOCUNUMI
-[25May2025 02:07:38.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 02:08:55.474] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
-[25May2025 02:09:10.358] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
-[25May2025 02:09:10.362] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
-[25May2025 02:09:10.366] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
-[25May2025 02:09:12.125] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-594}
-[25May2025 02:09:12.126] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-593}
-[25May2025 02:09:12.126] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-593}
-[25May2025 02:09:12.126] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=30, z=-591}
-[25May2025 02:09:12.126] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-591}
-[25May2025 02:09:12.126] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-592}
-[25May2025 02:09:12.127] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-590}
-[25May2025 02:09:12.127] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-589}
-[25May2025 02:09:12.127] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-589}
-[25May2025 02:09:12.127] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=24, z=-591}
-[25May2025 02:09:12.127] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-588}
-[25May2025 02:09:12.128] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-593}
-[25May2025 02:09:12.128] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=30, z=-591}
-[25May2025 02:09:12.128] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-589}
-[25May2025 02:09:12.128] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-590}
-[25May2025 02:09:12.128] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-591}
-[25May2025 02:09:12.128] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-592}
-[25May2025 02:09:12.129] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=24, z=-591}
-[25May2025 02:09:12.146] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
-[25May2025 02:09:12.163] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
-[25May2025 02:09:16.711] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
-[25May2025 02:09:16.712] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
-[25May2025 02:09:16.713] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
-[25May2025 02:09:16.713] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
-[25May2025 02:09:17.289] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-607}
-[25May2025 02:09:17.289] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-607}
-[25May2025 02:09:17.289] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-607}
-[25May2025 02:09:17.289] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-607}
-[25May2025 02:09:17.290] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-607}
-[25May2025 02:09:17.346] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-612}
-[25May2025 02:09:17.346] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-612}
-[25May2025 02:09:17.346] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-612}
-[25May2025 02:09:17.346] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-612}
-[25May2025 02:09:17.347] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-612}
-[25May2025 02:09:22.388] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
-[25May2025 02:09:22.389] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
-[25May2025 02:09:48.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Ice Bucket Challenge]
-[25May2025 02:11:45.515] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
-[25May2025 02:11:45.558] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
-[25May2025 02:11:45.559] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
-[25May2025 02:11:45.737] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
-[25May2025 02:11:45.737] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
-[25May2025 02:11:45.737] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
-[25May2025 02:11:45.737] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
-[25May2025 02:11:45.752] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
-[25May2025 02:11:45.752] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
-[25May2025 02:11:56.149] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
-[25May2025 02:11:56.149] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
-[25May2025 02:12:10.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:17:24.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [What a Deal!]
-[25May2025 02:18:22.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has reached the goal [Half a flight]
-[25May2025 02:18:31.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has reached the goal [Half a flight]
-[25May2025 02:19:17.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:20:27.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23151, l='ServerLevel[world]', x=771.22, y=104.00, z=-1216.43] died, message: 'Unemployed was slain by Zombie'
-[25May2025 02:20:45.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23149, l='ServerLevel[world]', x=769.70, y=104.00, z=-1216.33] died, message: 'Unemployed was slain by Zombie'
-[25May2025 02:21:52.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22924, l='ServerLevel[world]', x=757.62, y=94.00, z=-1204.11] died, message: 'Unemployed was slain by Zombie'
-[25May2025 02:22:09.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22282, l='ServerLevel[world]', x=759.01, y=94.00, z=-1202.93] died, message: 'Unemployed was slain by Zombie'
-[25May2025 02:24:31.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was doomed to fall
-[25May2025 02:24:35.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 02:24:51.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was doomed to fall
-[25May2025 02:24:57.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:25:49.762] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23195, l='ServerLevel[world]', x=783.05, y=93.00, z=-1230.76] died, message: 'Unemployed was slain by Zombie'
-[25May2025 02:28:33.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has reached the goal [Pray to the Goddess]
-[25May2025 02:29:20.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:29:42.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Iron Golem
-[25May2025 02:29:48.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:29:54.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by Iron Golem
-[25May2025 02:29:58.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 02:30:21.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:30:28.505] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=28, z=-358}
-[25May2025 02:30:30.551] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
-[25May2025 02:30:30.777] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
-[25May2025 02:30:34.286] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=31, z=-408}
-[25May2025 02:30:34.293] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=28, z=-358}
-[25May2025 02:30:34.310] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-420}
-[25May2025 02:30:34.310] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-419}
-[25May2025 02:31:18.197] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-366}
-[25May2025 02:31:18.197] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
-[25May2025 02:31:18.197] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-362}
-[25May2025 02:31:18.240] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
-[25May2025 02:31:18.241] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-362}
-[25May2025 02:31:22.918] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-366}
-[25May2025 02:31:26.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Elephant
-[25May2025 02:31:32.287] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-314}
-[25May2025 02:31:32.287] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-315}
-[25May2025 02:31:32.287] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-314}
-[25May2025 02:31:32.288] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-309}
-[25May2025 02:31:32.288] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=32, z=-305}
-[25May2025 02:31:37.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:32:11.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:32:21.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:32:39.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by arlinxnt
-[25May2025 02:32:53.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:33:35.173] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-231, y=25, z=-315}
-[25May2025 02:33:35.847] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=30, z=-334}
-[25May2025 02:33:40.519] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=30, z=-338}
-[25May2025 02:33:40.520] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=35, z=-340}
-[25May2025 02:34:18.279] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-310}
-[25May2025 02:34:18.280] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-230, y=26, z=-311}
-[25May2025 02:34:18.280] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=26, z=-310}
-[25May2025 02:34:18.280] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=26, z=-311}
-[25May2025 02:34:18.281] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-232, y=26, z=-312}
-[25May2025 02:34:18.281] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=31, z=-312}
-[25May2025 02:34:21.843] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
-[25May2025 02:34:21.971] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
-[25May2025 02:34:51.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:35:18.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [It's an Emu!!!]
-[25May2025 02:35:57.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:36:37.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [The day of the Dead]
-[25May2025 02:37:17.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:37:51.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:38:32.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:38:56.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI withered away whilst fighting Nightmare Stalker
-[25May2025 02:39:08.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:39:20.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has reached the goal [Fighting Nightmares]
-[25May2025 02:41:57.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has reached the goal [Dark Creator]
-[25May2025 02:42:56.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:44:12.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Gorilla
-[25May2025 02:44:16.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:45:44.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by Gorilla
-[25May2025 02:45:47.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 02:50:14.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [We do a little trolling...]
-[25May2025 02:50:18.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [We do a little trolling...]
-[25May2025 02:50:25.338] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1046, y=10, z=-2712} but found not block entity block Block{minecraft:water}[level=1] at location
-[25May2025 02:50:25.338] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1046, y=10, z=-2712}
-[25May2025 02:50:40.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:50:43.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:51:23.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:51:36.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [It's an Emu!!!]
-[25May2025 02:51:55.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by Emu
-[25May2025 02:51:58.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 02:56:45.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 02:56:59.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Fallen Chaos Knight
-[25May2025 02:57:12.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 02:57:29.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt tried to swim in lava to escape Door Knight
-[25May2025 02:57:34.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 02:58:18.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Bloody Gadfly
-[25May2025 02:58:23.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:00:48.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by STEPHANOCUNUMI
-[25May2025 03:00:49.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Fatty Demon]
-[25May2025 03:00:57.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:01:11.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1147, y=90, z=-3213} BlockPos{x=0, y=72, z=-26}
-[25May2025 03:01:14.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:07:28.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Gave 1 [Reinforced Deepslate] to arlinxnt]
-[25May2025 03:07:49.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Gave 2 [Slimeball] to arlinxnt]
-[25May2025 03:10:37.540] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=25, z=-355}
-[25May2025 03:10:37.540] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=25, z=-357}
-[25May2025 03:10:37.540] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-248, y=25, z=-356}
-[25May2025 03:10:37.541] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-359}
-[25May2025 03:10:37.542] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=26, z=-359}
-[25May2025 03:10:37.542] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=26, z=-359}
-[25May2025 03:10:37.542] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=26, z=-363}
-[25May2025 03:10:37.542] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=26, z=-364}
-[25May2025 03:10:37.542] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=26, z=-364}
-[25May2025 03:10:37.542] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=26, z=-364}
-[25May2025 03:10:37.543] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=26, z=-360}
-[25May2025 03:10:37.543] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-360}
-[25May2025 03:10:37.543] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=26, z=-360}
-[25May2025 03:10:37.543] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-242, y=30, z=-365}
-[25May2025 03:10:37.543] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=30, z=-363}
-[25May2025 03:10:37.558] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-339}
-[25May2025 03:10:37.558] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-338}
-[25May2025 03:10:37.559] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-379, y=25, z=-343}
-[25May2025 03:10:37.559] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=32, z=-338}
-[25May2025 03:10:37.694] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-338}
-[25May2025 03:10:37.695] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-340}
-[25May2025 03:10:40.700] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-334}
-[25May2025 03:10:40.701] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-333}
-[25May2025 03:10:40.701] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-330}
-[25May2025 03:10:40.701] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-330}
-[25May2025 03:10:46.523] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=26, z=-337}
-[25May2025 03:10:46.523] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=26, z=-339}
-[25May2025 03:10:46.524] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=25, z=-336}
-[25May2025 03:10:46.524] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=25, z=-336}
-[25May2025 03:10:46.760] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-339}
-[25May2025 03:10:46.761] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=31, z=-338}
-[25May2025 03:10:46.761] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=31, z=-338}
-[25May2025 03:10:46.761] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-332}
-[25May2025 03:10:46.761] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-333}
-[25May2025 03:10:46.761] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-334}
-[25May2025 03:10:46.762] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-335}
-[25May2025 03:10:46.762] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-336}
-[25May2025 03:10:46.762] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-337}
-[25May2025 03:10:46.762] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=27, z=-337}
-[25May2025 03:10:46.762] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-336}
-[25May2025 03:10:46.847] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-339}
-[25May2025 03:10:46.848] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-325, y=31, z=-339}
-[25May2025 03:10:46.848] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-327, y=25, z=-340}
-[25May2025 03:10:46.848] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-331}
-[25May2025 03:10:46.982] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-417}
-[25May2025 03:10:46.983] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-415}
-[25May2025 03:10:46.983] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=26, z=-417}
-[25May2025 03:10:46.983] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=26, z=-415}
-[25May2025 03:10:50.965] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=26, z=-306}
-[25May2025 03:10:50.966] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=36, z=-302}
-[25May2025 03:10:51.134] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
-[25May2025 03:10:51.134] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
-[25May2025 03:10:51.134] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
-[25May2025 03:10:51.365] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-417}
-[25May2025 03:10:51.365] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-415}
-[25May2025 03:11:01.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:11:10.792] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=26, z=-417}
-[25May2025 03:11:10.792] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=26, z=-415}
-[25May2025 03:11:10.982] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
-[25May2025 03:11:10.983] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-335}
-[25May2025 03:11:11.178] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-368, y=26, z=-308}
-[25May2025 03:11:11.178] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-310}
-[25May2025 03:11:11.178] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-303}
-[25May2025 03:11:15.069] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
-[25May2025 03:11:15.069] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
-[25May2025 03:11:15.077] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
-[25May2025 03:11:15.077] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-362}
-[25May2025 03:11:17.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:11:19.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:11:21.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:11:21.326] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-366}
-[25May2025 03:11:24.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:11:38.727] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=26, z=-306}
-[25May2025 03:11:38.728] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=26, z=-307}
-[25May2025 03:11:38.884] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-321, y=31, z=-307}
-[25May2025 03:11:38.884] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-321, y=30, z=-307}
-[25May2025 03:11:38.885] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=31, z=-307}
-[25May2025 03:11:42.153] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-325, y=25, z=-316}
-[25May2025 03:11:42.154] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=25, z=-315}
-[25May2025 03:12:47.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has reached the goal [Pray to the Goddess]
-[25May2025 03:15:39.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Hunt and Gather]
-[25May2025 03:16:51.612] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/45022, l='ServerLevel[world]', x=889.89, y=73.00, z=-3941.50] died, message: 'Farmer was slain by Fallen Chaos Knight'
-[25May2025 03:20:15.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:21:34.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Lifestealer
-[25May2025 03:21:38.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:21:45.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt withered away whilst fighting Lifestealer
-[25May2025 03:21:52.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:22:01.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:22:44.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:24:28.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:26:42.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:27:33.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Alex's Caves]
-[25May2025 03:27:34.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Alex's Caves]
-[25May2025 03:27:44.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:27:45.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt burned to death
-[25May2025 03:27:51.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI burned to death
-[25May2025 03:27:51.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 03:28:19.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
-[25May2025 03:28:24.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:28:28.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:29:15.514] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/47809, l='ServerLevel[world]', x=926.47, y=68.50, z=-3897.09] died, message: 'Farmer was shot by Pillager'
-[25May2025 03:29:25.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt burned to death
-[25May2025 03:29:29.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:29:49.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:32:18.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
-[25May2025 03:32:32.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [It Belongs in a Museum]
-[25May2025 03:34:25.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STEPHANOCUNUMI lost connection: Disconnected
-[25May2025 03:34:25.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI left the game
-[25May2025 03:34:25.573] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client STEPHANOCUNUMI
-[25May2025 03:36:19.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Stopping the server]
-[25May2025 03:36:19.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[25May2025 03:36:19.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[25May2025 03:36:19.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arlinxnt lost connection: Disconnected
-[25May2025 03:36:19.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt left the game
-[25May2025 03:36:19.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[25May2025 03:36:19.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[25May2025 03:36:21.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[25May2025 03:36:21.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[25May2025 03:36:21.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[25May2025 03:36:21.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[25May2025 03:36:21.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[25May2025 03:36:21.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[25May2025 03:36:21.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[25May2025 03:36:21.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[25May2025 03:36:21.416] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[25May2025 22:10:55.717] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[25May2025 22:10:55.725] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[25May2025 22:10:55.726] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[25May2025 22:10:55.728] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[25May2025 22:10:55.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[25May2025 22:10:55.741] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[25May2025 22:10:55.744] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[25May2025 22:10:55.746] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
+[25May2025 22:10:55.867] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2221 advancements
+[25May2025 22:10:55.878] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[25May2025 22:10:55.883] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[25May2025 22:10:55.894] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[25May2025 22:10:55.900] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
+[25May2025 22:10:55.934] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[25May2025 22:10:58.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[25May2025 22:10:58.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[25May2025 22:10:58.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[25May2025 22:10:58.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[25May2025 22:10:58.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[25May2025 22:10:58.729] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[25May2025 22:10:58.808] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[25May2025 22:10:58.808] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[25May2025 22:10:58.808] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[25May2025 22:10:58.808] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[25May2025 22:10:58.826] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[25May2025 22:10:58.827] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[25May2025 22:10:58.828] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[25May2025 22:10:58.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[25May2025 22:11:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[25May2025 22:11:05.390] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25May2025 22:11:05.411] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25May2025 22:11:05.420] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25May2025 22:11:05.427] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25May2025 22:11:05.436] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25May2025 22:11:05.445] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25May2025 22:11:05.800] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25May2025 22:11:06.314] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25May2025 22:11:06.743] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25May2025 22:11:07.240] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[25May2025 22:11:07.740] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[25May2025 22:11:08.112] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5373 ms
+[25May2025 22:11:08.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.292s)! For help, type "help"
+[25May2025 22:11:08.150] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[25May2025 22:11:08.178] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[25May2025 22:11:08.188] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[25May2025 22:13:20.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arlinxnt[/100.69.68.32:53721] logged in with entity id 38 at (889.2739026618514, -3.0, -3928.6601598367024)
+[25May2025 22:13:21.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt joined the game
+[25May2025 22:13:21.152] [Server thread/INFO] [Jade/]: Syncing config to arlinxnt (75757f10-7591-37ef-9a66-092248e053d5)
+[25May2025 22:13:23.942] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of arlinxnt (18)
+[25May2025 22:13:23.945] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to arlinxnt
+[25May2025 22:13:23.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2958ms or 59 ticks behind
+[25May2025 22:13:25.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 75757f10-7591-37ef-9a66-092248e053d5
+[25May2025 22:13:26.548] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 75757f10-7591-37ef-9a66-092248e053d5
+[25May2025 22:13:26.553] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player arlinxnt (75757f10-7591-37ef-9a66-092248e053d5) successfully connected to voice chat
+[25May2025 22:15:27.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STEPHANOCUNUMI[/100.127.67.97:63543] logged in with entity id 550 at (890.5538985866199, -3.0, -3927.4671805385897)
+[25May2025 22:15:27.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI joined the game
+[25May2025 22:15:27.182] [Server thread/INFO] [Jade/]: Syncing config to STEPHANOCUNUMI (47dd54fe-6257-3c10-83e9-07d43c8805c6)
+[25May2025 22:15:27.856] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of STEPHANOCUNUMI (18)
+[25May2025 22:15:27.857] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to STEPHANOCUNUMI
+[25May2025 22:15:33.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 47dd54fe-6257-3c10-83e9-07d43c8805c6
+[25May2025 22:15:34.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 47dd54fe-6257-3c10-83e9-07d43c8805c6
+[25May2025 22:15:34.170] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player STEPHANOCUNUMI (47dd54fe-6257-3c10-83e9-07d43c8805c6) successfully connected to voice chat
+[25May2025 22:19:01.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Once Upon a Cave]
