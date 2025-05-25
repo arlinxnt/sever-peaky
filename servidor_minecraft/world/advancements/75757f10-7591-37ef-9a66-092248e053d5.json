@@ -2349,5 +2349,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-05-25 22:19:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
