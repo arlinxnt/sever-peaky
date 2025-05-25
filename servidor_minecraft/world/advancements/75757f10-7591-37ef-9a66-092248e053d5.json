@@ -2355,6 +2355,12 @@
     },
     "done": true
   },
+  "gnumus:fatty_demon": {
+    "criteria": {
+      "fatty_demon": "2025-05-25 22:36:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-05-25 22:32:59 +0000"

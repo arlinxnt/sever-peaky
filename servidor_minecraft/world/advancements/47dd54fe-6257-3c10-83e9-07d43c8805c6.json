@@ -2592,5 +2592,23 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-05-25 22:53:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-05-25 22:52:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-05-25 22:42:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
