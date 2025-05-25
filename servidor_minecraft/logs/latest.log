@@ -398,3 +398,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 [25May2025 02:57:34.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
 [25May2025 02:58:18.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Bloody Gadfly
 [25May2025 02:58:23.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:00:48.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by STEPHANOCUNUMI
+[25May2025 03:00:49.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Fatty Demon]
+[25May2025 03:00:57.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:01:11.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1147, y=90, z=-3213} BlockPos{x=0, y=72, z=-26}
+[25May2025 03:01:14.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:07:28.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Gave 1 [Reinforced Deepslate] to arlinxnt]
+[25May2025 03:07:49.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Gave 2 [Slimeball] to arlinxnt]

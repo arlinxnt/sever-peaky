@@ -2543,3 +2543,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 [25May2025 02:58:18.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25May2025 02:58:21.779] [Server thread/DEBUG] [twilightforest/]: Player STEPHANOCUNUMI (47dd54fe-6257-3c10-83e9-07d43c8805c6) respawned and received items held in storage
 [25May2025 02:58:23.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:00:48.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by STEPHANOCUNUMI
+[25May2025 03:00:49.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Fatty Demon]
+[25May2025 03:00:52.716] [Server thread/DEBUG] [twilightforest/]: Player arlinxnt (75757f10-7591-37ef-9a66-092248e053d5) respawned and received items held in storage
+[25May2025 03:00:57.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:01:11.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1147, y=90, z=-3213} BlockPos{x=0, y=72, z=-26}
+[25May2025 03:01:14.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:03:18.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 03:03:18.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 03:07:28.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Gave 1 [Reinforced Deepslate] to arlinxnt]
+[25May2025 03:07:49.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Gave 2 [Slimeball] to arlinxnt]
+[25May2025 03:08:18.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 03:08:18.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
