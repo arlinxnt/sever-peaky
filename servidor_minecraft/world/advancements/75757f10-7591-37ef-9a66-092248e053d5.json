@@ -26,6 +26,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-05-25 01:18:36 +0000",
+      "minecraft:taiga": "2025-05-25 02:06:37 +0000",
       "minecraft:frozen_river": "2025-05-24 21:14:11 +0000",
       "minecraft:river": "2025-05-25 01:18:25 +0000",
       "minecraft:snowy_plains": "2025-05-24 21:25:06 +0000",
@@ -375,6 +376,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-24 20:03:48 +0000",
       "cooked_mutton": "2025-05-25 01:06:42 +0000",
+      "sweet_berries": "2025-05-25 02:06:56 +0000",
       "bread": "2025-05-25 01:26:08 +0000",
       "cooked_chicken": "2025-05-23 21:49:23 +0000"
     },
@@ -1477,6 +1479,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-25 02:00:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-25 00:56:16 +0000"
@@ -1510,6 +1518,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-05-25 01:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-25 02:08:01 +0000"
     },
     "done": true
   },
@@ -1573,6 +1587,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-05-25 02:00:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-05-25 00:57:44 +0000"
@@ -1603,6 +1623,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-25 02:03:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-25 01:32:12 +0000"
@@ -1618,6 +1644,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-05-25 01:20:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-05-25 02:00:48 +0000"
     },
     "done": true
   },
@@ -1675,6 +1707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-25 01:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-25 00:59:52 +0000"
@@ -1696,6 +1734,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-25 01:25:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-25 02:00:48 +0000"
     },
     "done": true
   },
@@ -1789,6 +1833,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-05-25 02:00:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-25 01:20:02 +0000"
@@ -1810,6 +1860,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-25 00:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-25 02:08:01 +0000"
     },
     "done": true
   },

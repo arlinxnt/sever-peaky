@@ -242,3 +242,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 [25May2025 01:49:09.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt fell from a high place
 [25May2025 01:49:19.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
 [25May2025 01:56:42.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Gave 1 [Dark Oak Wood] to arlinxnt]
+[25May2025 01:58:33.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has reached the goal [Bow for Wizards]
+[25May2025 01:59:58.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:00:25.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17612, l='ServerLevel[world]', x=625.65, y=94.00, z=-329.51] died, message: 'Unemployed was slain by STEPHANOCUNUMI'
+[25May2025 02:00:48.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Crops of the Wild]
+[25May2025 02:02:06.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:03:12.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Sweet Dreams]
+[25May2025 02:03:15.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Sweet Dreams]
+[25May2025 02:04:48.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:04:48.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt fell from a high place
+[25May2025 02:04:59.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[25May2025 02:07:09.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 02:07:11.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Chompy]
+[25May2025 02:07:34.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt was slain by STEPHANOCUNUMI
+[25May2025 02:07:38.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]

@@ -28,6 +28,7 @@
       "minecraft:old_growth_pine_taiga": "2025-05-25 01:18:27 +0000",
       "minecraft:taiga": "2025-05-25 01:17:27 +0000",
       "minecraft:frozen_river": "2025-05-24 21:35:57 +0000",
+      "minecraft:river": "2025-05-25 02:06:09 +0000",
       "minecraft:snowy_plains": "2025-05-24 21:30:25 +0000",
       "minecraft:snowy_taiga": "2025-05-23 21:41:47 +0000",
       "minecraft:frozen_ocean": "2025-05-24 20:31:48 +0000",
@@ -319,7 +320,8 @@
       "chicken": "2025-05-23 21:58:50 +0000",
       "bread": "2025-05-25 00:57:43 +0000",
       "rotten_flesh": "2025-05-23 21:55:39 +0000",
-      "cooked_chicken": "2025-05-23 22:05:13 +0000"
+      "cooked_chicken": "2025-05-23 22:05:13 +0000",
+      "carrot": "2025-05-25 02:01:05 +0000"
     },
     "done": false
   },
@@ -1751,6 +1753,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-25 02:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-05-25 01:30:26 +0000"
@@ -1883,6 +1891,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bowfor_wizards": {
+    "criteria": {
+      "bowfor_wizards_0": "2025-05-25 01:58:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-05-25 00:57:08 +0000"
@@ -1949,6 +1963,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-05-25 02:07:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-25 01:03:09 +0000"
@@ -2006,6 +2026,12 @@
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-05-25 01:14:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-05-25 02:07:12 +0000"
     },
     "done": true
   },
