@@ -332,6 +332,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-25 00:53:30 +0000",
       "chicken": "2025-05-23 21:58:50 +0000",
+      "cooked_beef": "2025-05-25 03:20:39 +0000",
       "baked_potato": "2025-05-25 02:44:59 +0000",
       "bread": "2025-05-25 00:57:43 +0000",
       "rotten_flesh": "2025-05-23 21:55:39 +0000",
@@ -1877,6 +1878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-25 03:32:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-05-25 01:36:11 +0000"
@@ -1898,6 +1905,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-25 02:40:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-05-25 03:27:34 +0000"
     },
     "done": true
   },
@@ -2117,9 +2130,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-25 03:32:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-05-25 02:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-25 03:32:34 +0000"
     },
     "done": true
   },
@@ -2390,6 +2415,12 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-05-25 02:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-25 03:32:34 +0000"
     },
     "done": true
   },

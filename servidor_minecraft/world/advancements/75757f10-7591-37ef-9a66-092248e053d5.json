@@ -38,6 +38,7 @@
       "minecraft:lukewarm_ocean": "2025-05-25 03:05:58 +0000",
       "minecraft:river": "2025-05-25 01:18:25 +0000",
       "minecraft:snowy_plains": "2025-05-24 21:25:06 +0000",
+      "minecraft:stony_shore": "2025-05-25 03:18:57 +0000",
       "minecraft:snowy_taiga": "2025-05-23 21:39:02 +0000",
       "minecraft:forest": "2025-05-25 02:09:18 +0000",
       "minecraft:frozen_ocean": "2025-05-24 21:24:20 +0000",
@@ -1567,6 +1568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-25 03:33:08 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-25 03:08:59 +0000"
@@ -1582,6 +1589,12 @@
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed_by": "2025-05-25 02:51:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-25 03:19:01 +0000"
     },
     "done": true
   },
@@ -1771,6 +1784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-25 03:31:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-25 03:08:59 +0000"
@@ -1786,6 +1805,18 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-25 02:03:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-05-25 03:27:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-25 03:19:01 +0000"
     },
     "done": true
   },
@@ -1837,9 +1868,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-25 03:19:01 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-05-25 01:47:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-05-25 03:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-25 03:19:01 +0000"
     },
     "done": true
   },
@@ -1940,15 +1989,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-05-25 03:18:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-05-25 01:56:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-25 03:31:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-25 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-25 03:31:55 +0000"
     },
     "done": true
   },
@@ -2132,9 +2199,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-25 03:31:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-25 03:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-25 03:33:08 +0000"
     },
     "done": true
   },
@@ -2207,6 +2286,12 @@
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-05-25 02:50:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-25 03:19:01 +0000"
     },
     "done": true
   },

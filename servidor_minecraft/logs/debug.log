@@ -2641,3 +2641,61 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 [25May2025 03:16:51.612] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/45022, l='ServerLevel[world]', x=889.89, y=73.00, z=-3941.50] died, message: 'Farmer was slain by Fallen Chaos Knight'
 [25May2025 03:18:18.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25May2025 03:18:18.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 03:20:15.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:21:34.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI was slain by Lifestealer
+[25May2025 03:21:36.328] [Server thread/DEBUG] [twilightforest/]: Player STEPHANOCUNUMI (47dd54fe-6257-3c10-83e9-07d43c8805c6) respawned and received items held in storage
+[25May2025 03:21:38.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:21:45.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt withered away whilst fighting Lifestealer
+[25May2025 03:21:47.786] [Server thread/DEBUG] [twilightforest/]: Player arlinxnt (75757f10-7591-37ef-9a66-092248e053d5) respawned and received items held in storage
+[25May2025 03:21:52.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:22:01.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:22:44.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:23:18.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 03:23:18.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 03:24:28.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:26:42.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:27:33.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [Alex's Caves]
+[25May2025 03:27:34.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI has made the advancement [Alex's Caves]
+[25May2025 03:27:44.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:27:45.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt burned to death
+[25May2025 03:27:47.706] [Server thread/DEBUG] [twilightforest/]: Player arlinxnt (75757f10-7591-37ef-9a66-092248e053d5) respawned and received items held in storage
+[25May2025 03:27:51.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI burned to death
+[25May2025 03:27:51.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[25May2025 03:28:18.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 03:28:18.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 03:28:19.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported arlinxnt to STEPHANOCUNUMI]
+[25May2025 03:28:24.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:28:28.651] [Server thread/DEBUG] [twilightforest/]: Player STEPHANOCUNUMI (47dd54fe-6257-3c10-83e9-07d43c8805c6) respawned and received items held in storage
+[25May2025 03:28:28.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:29:15.514] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/47809, l='ServerLevel[world]', x=926.47, y=68.50, z=-3897.09] died, message: 'Farmer was shot by Pillager'
+[25May2025 03:29:25.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt burned to death
+[25May2025 03:29:26.918] [Server thread/DEBUG] [twilightforest/]: Player arlinxnt (75757f10-7591-37ef-9a66-092248e053d5) respawned and received items held in storage
+[25May2025 03:29:29.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:29:49.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:32:18.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Teleported STEPHANOCUNUMI to arlinxnt]
+[25May2025 03:32:32.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt has made the advancement [It Belongs in a Museum]
+[25May2025 03:33:18.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 03:33:18.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 03:34:25.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STEPHANOCUNUMI lost connection: Disconnected
+[25May2025 03:34:25.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STEPHANOCUNUMI left the game
+[25May2025 03:34:25.571] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of STEPHANOCUNUMI
+[25May2025 03:34:25.573] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client STEPHANOCUNUMI
+[25May2025 03:36:19.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arlinxnt: Stopping the server]
+[25May2025 03:36:19.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25May2025 03:36:19.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25May2025 03:36:19.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arlinxnt lost connection: Disconnected
+[25May2025 03:36:19.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arlinxnt left the game
+[25May2025 03:36:19.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25May2025 03:36:19.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25May2025 03:36:21.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[25May2025 03:36:21.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25May2025 03:36:21.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25May2025 03:36:21.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 03:36:21.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 03:36:21.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25May2025 03:36:21.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[25May2025 03:36:21.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25May2025 03:36:21.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25May2025 03:36:21.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25May2025 03:36:21.414] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[25May2025 03:36:21.416] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
